@@ -4,6 +4,9 @@ of your work.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The working directory holds everything, all the files. The repository is only
+going to hold copies of what you've chosen to track. The staging area is where
+you can choose what to add and when.
 
 How can you use the staging area to make sure you have one commit per logical
 change?

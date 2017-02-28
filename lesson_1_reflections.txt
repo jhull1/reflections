@@ -24,7 +24,7 @@ Because many files in web dev are linked and have cross-related code.
 How can you use the commands git log and git diff to view the history of files?
 
   Git log gives you a list of all the commits and git diff tells you the changes
-   between two commits.
+   between atomtwo commits.
 
 How might using version control make you more confident to make changes that
 could break something?
