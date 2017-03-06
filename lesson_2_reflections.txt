@@ -15,11 +15,18 @@ commits. So you can decide what/how much to save.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches would be helpful in trying out different looks or features, or if you
+want to add something to a site but you're not sure if it will work.
 
 How do the diagrams help you visualize the branch structure?
+They help, but it's still really hard for me to visualize reachability.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging branches includes info from both files, intermingles commits, and results
+in one branch. The original branch must still be deleted, the diagrams show this.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic would be nice so you wouldn't forget, but this allows you to manage
+what you choose to include.
